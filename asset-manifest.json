@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-microproject1/static/css/main.78389aff.css",
+    "main.js": "/react-microproject1/static/js/main.96c98f87.js",
+    "static/media/left.png": "/react-microproject1/static/media/left.902a6cb0c6ef8dedb90f.png",
+    "static/media/card1.png": "/react-microproject1/static/media/card1.56d02d257a9d1813061d.png",
+    "static/media/card2.png": "/react-microproject1/static/media/card2.2fbc08fa999cad510073.png",
+    "index.html": "/react-microproject1/index.html",
+    "main.78389aff.css.map": "/react-microproject1/static/css/main.78389aff.css.map",
+    "main.96c98f87.js.map": "/react-microproject1/static/js/main.96c98f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78389aff.css",
+    "static/js/main.96c98f87.js"
+  ]
+}
